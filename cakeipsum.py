@@ -363,7 +363,7 @@ class LoremProvider(BaseProvider):
 ########################################################################3
 ########################################################################3
 
-class Provider(LoremProvider):
+class CakeIpsum(LoremProvider):
     word_list = ['danish',
  'cheesecake.',
  'sugar',
@@ -495,4 +495,4 @@ class Provider(LoremProvider):
  'oat']
 
 if __name__ == "__main__":
-    print(Provider.paragraph())
+    print(CakeIpsum.paragraph())
