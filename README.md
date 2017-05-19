@@ -12,5 +12,4 @@ yet another lorem ipsum
 ```
 
 
-#####Tests
 	python tests.py
