@@ -12,4 +12,4 @@ yet another lorem ipsum
 ```
 
 
-	python tests.py
+###test		`python tests.py`
